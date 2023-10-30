@@ -1,5 +1,8 @@
+<img src="https://komarev.com/ghpvc/?username=Danteh00&&style=plastics&&color=red" align="left"/> </p>
 ![MasterHead](https://contentstatic.techgig.com/photo/84143376/7-best-programming-languages-for-beginners-to-learn-in-2021.jpg?236746)
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <h1 align="center">Hi, I'm Efe Özkan</h1>
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right" />
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **Html, Css, Javascript, Python.**
@@ -23,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danteh00&show_icons=true&locale=en" alt="danteh00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danteh00&" alt="danteh00" /></p>
+
+
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+
